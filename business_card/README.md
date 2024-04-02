@@ -1,3 +1,3 @@
 # business_card
 
-A new Flutter project.
+### this is a learning project where i created a business card the picture is ther in png file
